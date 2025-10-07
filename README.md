@@ -34,30 +34,30 @@ Other Skills: Responsive Design, Debugging, Problem Solving, Team Collaboration
 Led frontend development with React and Tailwind CSS.
 	•	Achieved 95% responsive consistency across devices.
 	•	Built reusable UI libraries and improved development workflows.
-🔗 View Live: Hunch
+  
 
 🧠 StudyLoop — Educational Platform
 A MERN-based study companion that includes Q&A, streaks, achievements, and partner matching.
 	•	Integrated Clerk authentication and REST APIs for real-time user interactions.
 	•	Built a fully responsive UI with React (Vite) and Tailwind CSS.
-🔗 View Live: StudyLoop
+ 
 
 📩 Resend — Email for Developers
 Rebuilt the full Resend interface with React 19, Vite, and Tailwind CSS 4.
 	•	Implemented scroll animations with Framer Motion & AOS.
 	•	Structured reusable components for scalability and performance.
-🔗 View Live: Resend
+ 
 
 🏠 HomeLutions — HandyMan Solution Platform
 Designed and developed from scratch using React, Next.js, and TypeScript.
 	•	Built intuitive layouts for property listings and services.
 	•	Delivered clean, responsive design systems.
-🔗 View Live: HomeLutions
+ 
 
 🍽 Mitch Kitchen — Personalized Food Ordering Platform
 Frontend lead for a luxury food-ordering app.
 	•	Implemented pixel-perfect UIs and reusable components in React + Tailwind CSS.
-🔗 View Live: Mitch Kitchen
+ 
 
 
 📚 Currently Learning
