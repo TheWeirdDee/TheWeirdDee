@@ -88,5 +88,5 @@ Most repos reflect:
 
 ---
 
-*"My goal is to continuously grow as a developer while contributing innovative, user-focused solutions."*
+*My goal is to continuously grow as a developer while contributing innovative, user-focused solutions.*
  
