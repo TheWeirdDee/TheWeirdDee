@@ -2,9 +2,9 @@
 
 
 
-# Hi, I'm Dilibe Chidera Divine 👋
+# Hi, I'm Dilibe Chidera Divine 
 
-### Frontend Developer · Web3 Enthusiast · UI/UX Focused
+### Frontend Developer · UI/UX Focused · Web3 Enthusiast
 
 I am a frontend engineer who builds fast, polished, and production-ready web interfaces. Three years in, I've shipped everything from consumer-facing platforms to complex Web3 dashboards — and I bring the same attention to detail to all of it.
 I care about the things that separate good UIs from great ones: interaction feel, component architecture, performance, and the kind of design that makes users trust a product from the first scroll.
@@ -17,25 +17,28 @@ My work centers on:
 
 ---
  
-## 🛠️ Stack & Ecosystems
+## Stack & Ecosystems
 
 I've shipped across multiple frontend stacks with a strong bias toward React-based ecosystems.
 
 
 
-## 📁 Selected Projects
+## Selected Projects
 
 | Project | Description | Stack |
 |---|---|---|
+| [**Blindmarkets**](#) | Privacy-preserving trading infrastructure — intent composition, batch execution & risk analytics | Next.js · TypeScript · Tailwind · Starknet |
+| [**Remlo**](#) | Borderless enterprise payroll — AI-agent batch payments, salary streaming, Visa spend | Next.js · TypeScript · Tailwind · Tempo L1 |
+| [**Roomy**](#) | Modern housing platform — UI responsiveness, cross-device QA, verified listings & AI matching | React · QA / Manual Testing |
 | [**TradeFlix**](#) | Trading ecosystem — journaling, mentor discovery, AI onboarding | React · Tailwind · React Query |
 | [**Stretchee**](#) | Fitness platform with workout tracking and personalized dashboards | Next.js · Supabase · Zustand |
 | [**Hunch**](#) | Personalized diet planning, 95% cross-device responsiveness | React · Tailwind · Framer Motion |
 | [**StudyLoop**](#) | MERN learning platform — streaks, achievements, partner matching | React · Clerk Auth · REST API |
-| [**Mitch Kitchen**](#) | Luxury food-ordering platform, pixel-perfect from UI/UX designs | React · Tailwind |
+| [**Resend**](#) | Full recreation of the Resend platform UI with scroll animations and modular layouts | React 19 · Vite · Tailwind · Framer Motion |
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 - **Frontend QA / Manual Tester** — Roomy *(Dec 2025 – Feb 2026)*
 - **Lead Frontend Developer** — TradeFlix *(Oct 2025 – Dec 2025)*
@@ -44,7 +47,7 @@ I've shipped across multiple frontend stacks with a strong bias toward React-bas
 
 ---
 
-## ⚙️ Engineering Focus
+## Engineering Focus
 
 I care about:
 - Pixel-perfect implementation over "good enough"
@@ -55,7 +58,7 @@ I care about:
 
 ---
 
-## 🧭 Current Direction
+## Current Direction
 
 Lately I've been focused on:
 - Web3 frontend architecture and onchain UX patterns
@@ -65,7 +68,7 @@ Lately I've been focused on:
 
 ---
 
-## 🔓 Open Source
+## Open Source
 
 I actively ship projects — from hackathon prototypes to production-grade interfaces — in public.
 
@@ -76,9 +79,10 @@ Most repos reflect:
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Twitter/X: [@Devineishuman](https://x.com/Devineishuman)
+- LinkedIn: [@Divine Dilibe](https://www.linkedin.com/in/divine-dilibe-647a571b3/)
 - GitHub: [TheWeirdDee](https://github.com/TheWeirdDee)
 - Email: divinenation1@gmail.com
 
