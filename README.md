@@ -27,14 +27,14 @@ I've shipped across multiple frontend stacks with a strong bias toward React-bas
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Blindmarkets**](#) | Privacy-preserving trading infrastructure — intent composition, batch execution & risk analytics | Next.js · TypeScript · Tailwind · Starknet |
-| [**Remlo**](#) | Borderless enterprise payroll — AI-agent batch payments, salary streaming, Visa spend | Next.js · TypeScript · Tailwind · Tempo L1 |
-| [**Roomy**](#) | Modern housing platform — UI responsiveness, cross-device QA, verified listings & AI matching | React · QA / Manual Testing |
-| [**TradeFlix**](#) | Trading ecosystem — journaling, mentor discovery, AI onboarding | React · Tailwind · React Query |
-| [**Stretchee**](#) | Fitness platform with workout tracking and personalized dashboards | Next.js · Supabase · Zustand |
-| [**Hunch**](#) | Personalized diet planning, 95% cross-device responsiveness | React · Tailwind · Framer Motion |
-| [**StudyLoop**](#) | MERN learning platform — streaks, achievements, partner matching | React · Clerk Auth · REST API |
-| [**Resend**](#) | Full recreation of the Resend platform UI with scroll animations and modular layouts | React 19 · Vite · Tailwind · Framer Motion |
+| [**Blindmarkets**](https://www.blindmarkets.xyz/) | Privacy-preserving trading infrastructure — intent composition, batch execution & risk analytics | Next.js · TypeScript · Tailwind · Starknet |
+| [**Remlo**](https://www.remlo.xyz/) | Borderless enterprise payroll — AI-agent batch payments, salary streaming, Visa spend | Next.js · TypeScript · Tailwind · Tempo L1 |
+| [**Roomy**](https://roomy.ie/) | Modern housing platform — UI responsiveness, cross-device QA, verified listings & AI matching | React · QA / Manual Testing |
+| [**TradeFlix**](https://tradeflix-eosin.vercel.app/) | Trading ecosystem — journaling, mentor discovery, AI onboarding | React · Tailwind · React Query |
+| [**Stretchee**](https://stretchee.vercel.app/) | Fitness platform with workout tracking and personalized dashboards | Next.js · Supabase · Zustand |
+| [**Hunch**](https://www.hunch.ng/) | Personalized diet planning, 95% cross-device responsiveness | React · Tailwind · Framer Motion |
+| [**StudyLoop**](https://study-loop-henna.vercel.app/) | MERN learning platform — streaks, achievements, partner matching | React · Clerk Auth · REST API |
+| [**Resend**](https://resend-tau.vercel.app/) | Full recreation of the Resend platform UI with scroll animations and modular layouts | React 19 · Vite · Tailwind · Framer Motion |
 
 ---
 
