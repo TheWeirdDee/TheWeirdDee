@@ -1,7 +1,7 @@
 ## Current Direction
 
 Lately I've been focused on:
-- Web3 frontend architecture and onchain UX patterns
+- Web3 & Web2 architecture and onchain UX patterns
 - Building trading and finance dashboards with complex real-time state
 - Animation-driven interfaces with Framer Motion and GSAP
 - Expanding into full-stack Next.js with backend integration
